@@ -1,0 +1,3 @@
+Introduced K-fold Cross validation into feature ranking code tab
+Introduced Random Forest into feature ranking 
+Contributed to the presentation (Feature ranking)
